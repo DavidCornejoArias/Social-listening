@@ -11,7 +11,7 @@ API_SECRET_KEY = 'pMG7Rh9upJxysFF17vJ9oue2DPzQ5yAxwtiRVLynludMFMGBbh'
 ACCESS_TOKEN = '2891305923-OeYVUwyCxCvfBJosHwFFRRfqtLZgjewrUdPTdFa'
 ACCESS_TOKEN_SECRET = '4v6eTUQnsBqtPjLx7ZNzfWsF45xxtO7nWXklYTvbVZxJ4'
 screen_name = "@Princeton"
-direccion = r"C:\Users\david\Dropbox\RA application\Data science intern"
+direccion = r"direccion"
 n = 100
 # importing the packages
 import os
